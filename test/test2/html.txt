@@ -2,5 +2,5 @@ git clone "https:\\...." clonamos la nueva
 git status (diferencia entre local y nube)
 git add file.extension
 git commit -m "comentario"
-git push
+git push (sube los cambios a la nube)
 
