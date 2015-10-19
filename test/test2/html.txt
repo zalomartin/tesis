@@ -3,4 +3,5 @@ git status (diferencia entre local y nube)
 git add file.extension
 git commit -m "comentario"
 git push (sube los cambios a la nube)
+Agregamos un cambio para ver que pasa en el pc
 
