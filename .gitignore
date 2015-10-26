@@ -12,3 +12,10 @@
 hs_err_pid*
 /EnterpriseApplicationKEBD-war/dist/
 /dist/
+/EnterpriseApplicationKEBD-war/nbproject/private/
+/nbproject/private/
+/EnterpriseApplicationKEBD-ejb/nbproject/private/
+/EnterpriseApplicationKEBD-ejb/build/
+/EnterpriseApplicationKEBD-war/build/
+/EnterpriseApplicationKEBD-ejb/dist/
+/build/
