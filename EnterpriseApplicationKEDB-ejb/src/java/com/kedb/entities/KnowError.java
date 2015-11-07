@@ -40,7 +40,7 @@ public class KnowError implements Serializable {
     @Basic(optional = false)   
     @Size(min = 1, max = 250)
     @NotNull
-    @Column(name = "name")
+    @Column(name = "name", nullable = true, unique = true)
     private String name;
 
     public KnowError() {
